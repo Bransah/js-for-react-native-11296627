@@ -34,3 +34,4 @@ const strings = ["Hello", "world", "how", "are", "you?"];
 const numbers = processArray([1, 4, 5, 2, 8]);
 const formattedStrings = formatArrayStrings(strings, numbers);
 console.log(formattedStrings); 
+
